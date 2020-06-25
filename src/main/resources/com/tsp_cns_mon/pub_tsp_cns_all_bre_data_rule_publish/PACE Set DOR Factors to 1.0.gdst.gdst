@@ -1,5 +1,5 @@
 <decision-table52>
-  <tableName>PACE Set DOR Factors to 1_0</tableName>
+  <tableName>PACE Set DOR Factors to 1.0.gdst</tableName>
   <rowNumberCol>
     <hideColumn>false</hideColumn>
     <width>50</width>
@@ -241,7 +241,6 @@
     <list>
       <value>
         <valueNumeric class="int">1</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -252,7 +251,6 @@
       </value>
       <value>
         <valueNumeric class="int">1</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
